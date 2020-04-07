@@ -1,0 +1,13 @@
+{
+  "name": "electronjs-demo",
+  "version": "0.0.1",
+  "description": "Demo application built with electron (http://electronjs.org).",
+  "appId": "org.reisbel.electronjs-demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^8.2.1"
+  }
+}
